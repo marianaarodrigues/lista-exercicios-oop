@@ -1,0 +1,30 @@
+{
+  "name": "lista-exercicios-oop",
+  "version": "1.0.0",
+  "description": "Resolução de lista com 10 exercícios para aplicar os conceitos de Programação Orientada a Objetos (curso de Backend JS do programa Bolsa Futuro Digital).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marianaarodrigues/lista-exercicios-oop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/marianaarodrigues/lista-exercicios-oop/issues"
+  },
+  "homepage": "https://github.com/marianaarodrigues/lista-exercicios-oop#readme",
+  "devDependencies": {
+    "@types/node": "^24.9.1",
+    "@types/readline-sync": "^1.4.8",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
