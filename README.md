@@ -1,2 +1,3 @@
-# lista-exercicios-oop
-Resolução de lista com 10 exercícios para aplicar os conceitos de Programação Orientada a Objetos (curso de Backend JS do programa Bolsa Futuro Digital).
+# Lista de exercícios de Programação Orientada a Objetos
+
+- [Exercício 01](src/exercicio01.ts): Classe que modela um(a) aluno(a) de academia.
