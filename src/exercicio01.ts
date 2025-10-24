@@ -36,6 +36,8 @@ class Pessoa {
     /**
      * @param nome Nome da pessoa.
      * @param dataDeNascimentoString Data de nascimento no formato DD-MM-YYYY.
+     * @param peso Peso da pessoa.
+     * @param altura Altura da pessoa.
      */
     constructor(nome: string, dataDeNascimentoString: string, peso: string, altura: string) {
         this.nome = nome;
